@@ -1,20 +1,6 @@
 {
-  "name": "linkswap",
+  "name": "link-swap",
   "version": "1.0.0",
-  "description": "LinkSwap smart contracts",
-  "license": "UNLICENSED",
-  "homepage": "https://yflink.io/",
-  "keywords": [
-    "chainlink",
-    "core",
-    "ethereum",
-    "linkswap",
-    "uniswap",
-    "yearn",
-    "yfi",
-    "yflink",
-    "yfl"
-  ],
   "files": [
     "contracts",
     "!contracts/test",
